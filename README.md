@@ -66,3 +66,8 @@ at NIPS 2017.
 License
 -------
 © YANDEX LLC, 2017-2018. Licensed under the Apache License, Version 2.0. See LICENSE file for more details.
+
+Student
+-------
+Kozim Kabulov
+
